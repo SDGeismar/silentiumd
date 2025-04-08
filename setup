@@ -1,0 +1,8 @@
+export SILENTIUM_NETWORK="testnet4"
+export SILENTIUM_START_HEIGHT=76000
+export SILENTIUM_RPC_HOST="localhost:48332"
+export SILENTIUM_PORT=9392
+export SILENTIUM_DB_TYPE="badger"
+export SILENTIUM_NO_TLS="true"
+export SILENTIUM_RPC_USER="test"
+export SILENTIUM_RPC_PASS="test"
